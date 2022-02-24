@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @TomerBenShimol.
+- 👋 Hi, I’m @TomerBenShimol 3rd year software engineering student at SCE.
 - 👀 I’m interested in a student position.
-- 🌱 I’m currently learning software engineering at SCE.  
