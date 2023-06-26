@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @TomerBenShimol, Software engineer
+- 👋 Hi, I’m @TomerBenShimol, software engineer
 - 👀 I’m interested in a software developer position.
